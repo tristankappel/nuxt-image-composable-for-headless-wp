@@ -1,6 +1,6 @@
-# useImage Composable
+# Nuxt useImage Composable for headless WordPress
 
-A Nuxt 3 composable to fetch WordPress media by ID and return image URLs in various sizes, including WebP URLs via WebP Express integration.
+A Nuxt composable to fetch WordPress media by ID and return image URLs in various sizes, including WebP URLs via WebP Express integration.
 
 ## Features
 
